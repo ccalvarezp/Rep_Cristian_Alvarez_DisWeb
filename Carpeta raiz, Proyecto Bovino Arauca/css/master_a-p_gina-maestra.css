@@ -1,0 +1,43 @@
+#u3022
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #4C7034;
+	position: relative;
+}
+
+#u3022:active
+{
+	background-color: #4C7034;
+}
+
+#u9486
+{
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u7468,#u3022_align_to_page,#u9202,#u9197,#u9198,#u9200,#u9204
+{
+	position: relative;
+}
+
+#u9200_clip,#u9204_clip
+{
+	overflow: hidden;
+}
+
+#u4532-19
+{
+	text-align: right;
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+

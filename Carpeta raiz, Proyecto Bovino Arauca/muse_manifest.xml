@@ -1,0 +1,200 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4105206679"/>
+    <file name="master_a-p_gina-maestra.css" crc="3968341725" ref="el-proyecto:index:documentos:capital-humano:estado-del-proyecto:objetivos:contacto"/>
+    <file name="master_b-p_gina-maestra.css" crc="3909886209" ref="misión-y-visión"/>
+    <file name="el-proyecto.css" crc="3889473762" ref="el-proyecto"/>
+    <file name="index.css" crc="233585899" ref="index"/>
+    <file name="documentos.css" crc="323043712" ref="documentos"/>
+    <file name="capital-humano.css" crc="4075786568" ref="capital-humano"/>
+    <file name="misi_n-y-visi_n.css" crc="5558718" ref="misión-y-visión"/>
+    <file name="estado-del-proyecto.css" crc="4286602531" ref="estado-del-proyecto"/>
+    <file name="objetivos.css" crc="3958524249" ref="objetivos"/>
+    <file name="contacto.css" crc="23436245" ref="contacto"/>
+  </folder>
+  <folder name="assets">
+    <file name="cronograma-de-actividades-02-07-2014.xlsx" crc="278164571" mt="1404334128000"/>
+    <file name="anexo-1.-contribuci‡n-al-plan-desarrollo---arauca.pdf" crc="201988264" mt="1406524692000"/>
+    <file name="anexo-2.-identificaci‡n-y-descripci‡n-problema---arauca.pdf" crc="234503885" mt="1406524692000"/>
+    <file name="anexo-6.-alternativa-soluci‡n-st-vp-proy-arauca.pdf" crc="3908888540" mt="1406524692000"/>
+    <file name="anexo-9.-resumen_proy_arauca_.pdf" crc="33030552" mt="1406524692000"/>
+    <file name="anexo-7.-identificaci‡n-de-la-demanda-proyecto--arauca.pdf" crc="181262944" mt="1406524692000"/>
+    <file name="anexo-8.-lineas-inves_portafolio-proyectos-arauca.pdf" crc="4102877580" mt="1406524692000"/>
+    <file name="matriz-marco-l‡gico-proy-arauca-sgr.xlsx" crc="7136493" mt="1391689552000"/>
+    <file name="presentaci‡n-proyecto-arauca.ppt" crc="3776591927" mt="1392587966000"/>
+    <file name="documentos-y-anexos-presentados.pdf" crc="132923116" mt="1409941616000"/>
+    <file name="informe-tecnico-avance-1er-trimestre.pdf" crc="3790500621" mt="1409762194000"/>
+    <file name="presentacion-proyecto.pdf" crc="289630862" mt="1409599346000"/>
+    <file name="productores-encuestados.pdf" crc="3906407402" mt="1409599494000"/>
+    <file name="encuesta-de-caracterizacion.pdf" crc="4015226027" mt="1409599488000"/>
+    <file name="sistemas-productivos-observados.pdf" crc="421501533" mt="1409599500000"/>
+    <file name="documentos-referenciales-por-componente-tematico.pdf" crc="3809480891" mt="1409601904000"/>
+    <file name="caracterizacion-sistemas-productivos.pdf" crc="36723598" mt="1409940636000"/>
+    <file name="clasificacion-tecnologica-(clusters).pdf" crc="310937811" mt="1409940612000"/>
+    <file name="cupos-ofrecidos.pdf" crc="384098483" mt="1409603022000"/>
+    <file name="proceso-de-admision-posgrado.pdf" crc="519610488" mt="1409603024000"/>
+    <file name="admitidos-posgrado.pdf" crc="3841188409" mt="1409603026000"/>
+    <file name="resumen.docx" crc="4176962712" mt="1404336814000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="museutils.js" crc="3865766194" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="pie.js" crc="3827607177" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="webpro.js" crc="3903299128" ref="contacto:estado-del-proyecto:index:documentos"/>
+    <file name="form_check.php" crc="4066397928" ref="contacto"/>
+    <file name="form_throttle.php" crc="3962765407" ref="contacto"/>
+    <file name="form-u339.php" crc="399700063" ref="contacto"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="estado-del-proyecto:index:documentos"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="estado-del-proyecto:index:documentos"/>
+    <file name="touchswipe.js" crc="4156838003" ref="estado-del-proyecto:index:documentos"/>
+  </folder>
+  <folder name="images">
+    <file name="header.png" crc="192737713" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:index:documentos:capital-humano"/>
+    <file name="logo_un_negro.png" crc="4049860846" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="gobernación_de_arauca.png" crc="3992439437" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="gobernación-del-vichada.png" crc="250402589" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="sistema-general-de-regalias.png" crc="4104277942" ref="el-proyecto:contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="u8478-4.png" crc="124970949" ref="contacto"/>
+    <file name="u8511-4.png" crc="3812217618" ref="contacto"/>
+    <file name="u8450-4.png" crc="202008136" ref="contacto"/>
+    <file name="u8455-4-a.png" crc="4199840097" ref="contacto"/>
+    <file name="cuadro-u8440.png" crc="4247964115" ref="contacto"/>
+    <file name="logo-proyecto-arauca-figura.png" crc="338690197" ref="contacto:estado-del-proyecto:objetivos:misión-y-visión:index:documentos:capital-humano"/>
+    <file name="u340-17.png" crc="65790766" ref="contacto"/>
+    <file name="u340-17-r.png" crc="335292767" ref="contacto"/>
+    <file name="u340-17-m.png" crc="3967086418" ref="contacto"/>
+    <file name="u340-17-fs.png" crc="3853802570" ref="contacto"/>
+    <file name="u7355-4.png" crc="252904331" ref="contacto"/>
+    <file name="u8723-4.png" crc="124970949" ref="estado-del-proyecto"/>
+    <file name="u8668-4.png" crc="3812217618" ref="estado-del-proyecto"/>
+    <file name="u8663-4-a.png" crc="202008136" ref="estado-del-proyecto"/>
+    <file name="u8719-4.png" crc="4199840097" ref="estado-del-proyecto"/>
+    <file name="cuadro-u8653.png" crc="4247964115" ref="estado-del-proyecto"/>
+    <file name="u6939-13.png" crc="163798104" ref="estado-del-proyecto"/>
+    <file name="arauca - 25-feb-14, despacho gobernador03.jpg" crc="337624194" ref="estado-del-proyecto"/>
+    <file name="blank.gif" crc="4208392903" ref="estado-del-proyecto:index"/>
+    <file name="arauca - medios jun01.jpg" crc="467878568" ref="estado-del-proyecto"/>
+    <file name="arauca - medios jun02.jpg" crc="463359257" ref="estado-del-proyecto"/>
+    <file name="divulgación pto rondón junio 2014 06.jpg" crc="108385874" ref="estado-del-proyecto"/>
+    <file name="fortul - jun 2014, comité de ganaderos02.jpg" crc="441971250" ref="estado-del-proyecto"/>
+    <file name="panamá - jun 2014, escuela rural01.jpg" crc="4065105572" ref="estado-del-proyecto"/>
+    <file name="tame - jun 2014, comité de ganaderos06.jpg" crc="8237713" ref="estado-del-proyecto"/>
+    <file name="loading.gif" crc="3815509949" ref="estado-del-proyecto:index"/>
+    <file name="u9054.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9054-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9058.png" crc="3762616241" ref="estado-del-proyecto"/>
+    <file name="u9058-m.png" crc="382693787" ref="estado-del-proyecto"/>
+    <file name="u9076.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9076-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9082.png" crc="3762616241" ref="estado-del-proyecto"/>
+    <file name="u9082-m.png" crc="382693787" ref="estado-del-proyecto"/>
+    <file name="u9593.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9593-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9599.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9599-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9682.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9682-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9678.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9678-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9693.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9693-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9695.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9695-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u9706.png" crc="148566732" ref="estado-del-proyecto"/>
+    <file name="u9706-m.png" crc="3957083770" ref="estado-del-proyecto"/>
+    <file name="u8164-4.png" crc="124970949" ref="objetivos"/>
+    <file name="u8197-4.png" crc="3812217618" ref="objetivos"/>
+    <file name="u8136-4.png" crc="202008136" ref="objetivos"/>
+    <file name="u8141-4.png" crc="4199840097" ref="objetivos"/>
+    <file name="cuadro-u8126.png" crc="4247964115" ref="objetivos"/>
+    <file name="u6838-4.png" crc="3851697097" ref="objetivos"/>
+    <file name="u6839-4.png" crc="4161133379" ref="objetivos"/>
+    <file name="header_2.png" crc="4191438755" ref="misión-y-visión"/>
+    <file name="cuadro-u8048.png" crc="4247964115" ref="misión-y-visión"/>
+    <file name="u8086-4.png" crc="124970949" ref="misión-y-visión"/>
+    <file name="u8119-4.png" crc="3812217618" ref="misión-y-visión"/>
+    <file name="u8058-4.png" crc="202008136" ref="misión-y-visión"/>
+    <file name="u8063-4.png" crc="4199840097" ref="misión-y-visión"/>
+    <file name="u6822-4.png" crc="3768743314" ref="misión-y-visión"/>
+    <file name="u6830-4.png" crc="3971014936" ref="misión-y-visión"/>
+    <file name="u9771-4-a.png" crc="124970949" ref="index"/>
+    <file name="u9813-4.png" crc="3812217618" ref="index"/>
+    <file name="u9764-4.png" crc="202008136" ref="index"/>
+    <file name="u9775-4.png" crc="4199840097" ref="index"/>
+    <file name="cuadro-u7570-a.png" crc="4247964115" ref="index"/>
+    <file name="arauca - 25-feb-14, despacho gobernador01.jpg" crc="4190454695" ref="index"/>
+    <file name="1.jpg" crc="508714252" ref="index"/>
+    <file name="2.jpg" crc="506289220" ref="index"/>
+    <file name="3.jpg" crc="269821381" ref="index"/>
+    <file name="4.jpg" crc="130337984" ref="index"/>
+    <file name="5.jpg" crc="357219882" ref="index"/>
+    <file name="6.jpg" crc="3829460893" ref="index"/>
+    <file name="7.jpg" crc="4288883637" ref="index"/>
+    <file name="8.jpg" crc="3941878192" ref="index"/>
+    <file name="9.jpg" crc="496919221" ref="index"/>
+    <file name="10.jpg" crc="4037097972" ref="index"/>
+    <file name="11.jpg" crc="4032799723" ref="index"/>
+    <file name="12.jpg" crc="4045551632" ref="index"/>
+    <file name="13.jpg" crc="3841390797" ref="index"/>
+    <file name="14.jpg" crc="133135717" ref="index"/>
+    <file name="15.jpg" crc="127779150" ref="index"/>
+    <file name="16.jpg" crc="112710244" ref="index"/>
+    <file name="panamá - 12-mar-14, escuela rural02.jpg" crc="158702729" ref="index"/>
+    <file name="resumen_del_proyecto.png" crc="104477287" ref="index"/>
+    <file name="u6025.png" crc="148566732" ref="index"/>
+    <file name="u6025-m.png" crc="3957083770" ref="index"/>
+    <file name="cronograma_de_actividades.png" crc="4175828257" ref="index"/>
+    <file name="u6046.png" crc="148566732" ref="index"/>
+    <file name="u6046-m.png" crc="3957083770" ref="index"/>
+    <file name="documentos.png" crc="73727062" ref="index"/>
+    <file name="u6035.png" crc="143476686" ref="index"/>
+    <file name="u6035-m.png" crc="310513207" ref="index"/>
+    <file name="diagrama-resumen.jpg" crc="71396229" ref="index"/>
+    <file name="u8849-4.png" crc="124970949" ref="documentos"/>
+    <file name="u8834-4.png" crc="3812217618" ref="documentos"/>
+    <file name="u8841-4.png" crc="202008136" ref="documentos"/>
+    <file name="u8857-4.png" crc="4199840097" ref="documentos"/>
+    <file name="cuadro-u8204.png" crc="4247964115" ref="documentos"/>
+    <file name="u7363-4.png" crc="109968258" ref="documentos"/>
+    <file name="u6090.png" crc="148566732" ref="documentos"/>
+    <file name="u6090-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u8765.png" crc="148566732" ref="documentos"/>
+    <file name="u8765-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u6100.png" crc="148566732" ref="documentos"/>
+    <file name="u6100-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u9546.png" crc="148566732" ref="documentos"/>
+    <file name="u9546-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u9553.png" crc="148566732" ref="documentos"/>
+    <file name="u9553-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u8773.png" crc="148566732" ref="documentos"/>
+    <file name="u8773-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u8777.png" crc="148566732" ref="documentos"/>
+    <file name="u8777-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u8781.png" crc="148566732" ref="documentos"/>
+    <file name="u8781-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u8869.png" crc="148566732" ref="documentos"/>
+    <file name="u8869-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u9564.png" crc="148566732" ref="documentos"/>
+    <file name="u9564-m.png" crc="3957083770" ref="documentos"/>
+    <file name="u9828-4.png" crc="124970949" ref="capital-humano"/>
+    <file name="u9888-4.png" crc="3812217618" ref="capital-humano"/>
+    <file name="u9832-4.png" crc="202008136" ref="capital-humano"/>
+    <file name="u9852-4.png" crc="4199840097" ref="capital-humano"/>
+    <file name="cuadro-u8282.png" crc="4247964115" ref="capital-humano"/>
+    <file name="u6820-4.png" crc="3853274583" ref="capital-humano"/>
+    <file name="henry-grajales.png" crc="3858355404" ref="capital-humano"/>
+    <file name="germán-afanador.png" crc="267514948" ref="capital-humano"/>
+    <file name="francisco-lopez.png" crc="3890056005" ref="capital-humano"/>
+  </folder>
+  <file name="el-proyecto.html" crc="294049951" mt="1410363782092" redirect="true"/>
+  <file name="contacto.html" crc="3912782520" mt="1410363782095" redirect="true"/>
+  <file name="estado-del-proyecto.html" crc="310909427" mt="1410364633159" redirect="true"/>
+  <file name="objetivos.html" crc="103806478" mt="1410363782099" redirect="true"/>
+  <file name="misión-y-visión.html" crc="341863538" mt="1410363804120" redirect="true"/>
+  <file name="index.html" crc="63825146" mt="1410363899289" redirect="true"/>
+  <file name="documentos.html" crc="3799732930" mt="1410363901099" redirect="true"/>
+  <file name="capital-humano.html" crc="4099098936" mt="1410364070206" redirect="true"/>
+</manifest>
